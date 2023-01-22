@@ -1,2 +1,2 @@
-UPDATE discount
-Se
+UPDATE order_details
+SET discount = 15;
