@@ -1,0 +1,2 @@
+UPDATE discount
+Se
